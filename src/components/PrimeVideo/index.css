@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.prime-video-img {
+  height: 25vh;
+  width: 100%;
+  border: 5px solid red;
+}
+
+.video-slider-background {
+  background-color: #000000;
+  height: 75vh;
+  padding: 40px;
+  padding-top: 20px;
+}
+
+.heading {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 32px;
+}
